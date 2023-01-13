@@ -1,0 +1,3 @@
+gcc *.c -o juego -std=c99 -Wall -Wconversion -Werror -lm
+
+
